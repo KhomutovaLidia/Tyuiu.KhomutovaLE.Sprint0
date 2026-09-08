@@ -12,6 +12,7 @@
             Console.WriteLine($"Здравствуйте, меня зовут {name}, мне {age} лет");
 
             Console.ReadLine();
+
         }
     }
 }
